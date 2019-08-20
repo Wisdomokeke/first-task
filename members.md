@@ -98,10 +98,10 @@ Format is as given below:
    Twitter: @OwohChidubem <br />
    Github: @dubemtopsite <br />
 -----------------------------------------------
-12. Name:Okeke Ifechukwu Wisdom <br />
-    Email: ifechukwuwisdomokeke@gmail.com < br/>
-    Learning Track: Data Science < br/>
-    Skills: Engineering and Repairs < br/>
+12.Name:Okeke Ifechukwu Wisdom <br />
+  Email: ifechukwuwisdomokeke@gmail.com < br/>
+  Learning Track: Data Science < br/>
+    Skills: Engineering and Repair < br/>
     WhatsApp number: 08144801594 < br/>
     Twitter: @okekewisdom11 < br/>
     Github: @wisdomokeke < br/>

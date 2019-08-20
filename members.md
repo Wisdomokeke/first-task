@@ -97,3 +97,11 @@ Format is as given below:
    Whatsapp number: 08139353673<br/>
    Twitter: @OwohChidubem <br />
    Github: @dubemtopsite <br />
+-----------------------------------------------
+12. Name:Okeke Ifechukwu Wisdom <br />
+    Email: ifechukwuwisdomokeke@gmail.com < br/>
+    Learning Track: Data Science < br/>
+    Skills: Engineering and Repairs < br/>
+    WhatsApp number: 08144801594 < br/>
+    Twitter: @okekewisdom11 < br/>
+    Github: @wisdomokeke < br/>
